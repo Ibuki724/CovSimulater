@@ -1,0 +1,29 @@
+{
+  "test": {
+    "dead": 0,
+    "dead_rate": 0.001,
+    "inf": 1,
+    "inf_rate": 0.03,
+    "pop": 100000,
+    "preinf": 0,
+    "rec": 0,
+    "rec_rate": 0.9,
+    "touch": 3,
+    "vac": 0,
+    "vac_rate": 0.005
+  },
+  "player_save": {
+    "dead": 0,
+    "dead_rate": 0.001,
+    "inf": 1,
+    "inf_rate": 0.03,
+    "pop": 100000,
+    "preinf": 0,
+    "rec": 0,
+    "rec_rate": 0.9,
+    "touch": 3,
+    "vac": 0,
+    "vac_rate": 0.005
+  }
+  
+}
